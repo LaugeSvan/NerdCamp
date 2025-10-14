@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Readex+Pro:wght@160..700&display=swap');
+
+:root {
+   --bg-clr: #ffffff;
+   --acc-clr: #f7d442;
+   --acc-2-clr: #e54f5a;
+   --acc-3-clr: #4682b4;
+}
+
+* {
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: var(--bg-clr);
+}
