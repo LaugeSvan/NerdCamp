@@ -2,9 +2,9 @@
 
 :root {
    --bg-clr: #ffffff;
-   --acc-clr: #f7d442; /* Yellow for hovers */
-   --acc-2-clr: #e54f5a; /* Red accent, unused here */
-   --acc-3-clr: #4682b4; /* Blue for nav bg */
+   --acc-clr: #f7d442;
+   --acc-2-clr: #e54f5a;
+   --acc-3-clr: #4682b4;
    --text-clr: #333333;
    --nav-text: #ffffff;
    --shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
