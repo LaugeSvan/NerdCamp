@@ -25,6 +25,11 @@ header {
    z-index: 100;
 }
 
+main {
+   padding: 20px;
+   background-color: var(--bg-clr);
+}
+
 nav {
    display: flex;
    justify-content: space-between;
