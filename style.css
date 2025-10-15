@@ -42,7 +42,7 @@ nav {
 
 nav h1 {
    margin: 0;
-   font-family: 'Patrick Hand', cursive;
+   font-family: 'Readex Pro';
    color: var(--nav-text);
    font-size: 2rem;
    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
@@ -121,7 +121,7 @@ nav li a:focus {
 
 .nerd-c-text {
    color: var(--acc-clr);
-   font-family: Patrick Hand;
+   font-family: Readex Pro;
 }
 
 .content-card {
