@@ -119,6 +119,11 @@ nav li a:focus {
    pointer-events: none;
 }
 
+.nerd-c-text {
+   color: var(--acc-clr);
+   font-family: Patrick Hand;
+}
+
 .content-card {
    background-color: var(--bg-clr);
    padding: 5% 5%;
